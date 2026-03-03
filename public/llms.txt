@@ -1,0 +1,19 @@
+# HR-UPDATER: v1.0
+# heizungstechnik-stellenangebote.de - Heizungstechnik Stellenangebote
+
+> heizungstechnik-stellenangebote.de ist ein spezialisiertes Jobportal fuer Heizungstechnik-Stellenangebote in Deutschland, Oesterreich und der Schweiz.
+
+## Ueber uns
+- Spezialisiertes Jobportal fuer Heizungstechnik
+- Kostenlose Stellensuche fuer Bewerber
+- Gezielte Reichweite fuer Arbeitgeber
+
+## Kontakt
+- Website: https://heizungstechnik-stellenangebote.de
+- Arbeitgeber-Kontakt: https://heizungstechnik-stellenangebote.de/kontakt-arbeitgeber
+- Bewerber-Kontakt: https://heizungstechnik-stellenangebote.de/kontakt-bewerber
+
+## Inhalte
+- Aktuelle Heizungstechnik-Stellenangebote
+- Karriere-Ratgeber fuer Heizungstechnik
+- Gehaltsvergleiche und Brancheninformationen

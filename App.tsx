@@ -4,6 +4,8 @@ import Header from './components/Layout/Header';
 import Footer from './components/Layout/Footer';
 import Home from './pages/Home';
 import Impressum from './pages/Impressum';
+import Datenschutz from './pages/Datenschutz';
+import AutorSeite from './pages/AutorSeite';
 
 // Scroll to top on route change component
 const ScrollToTop = () => {
@@ -28,6 +30,9 @@ const App: React.FC = () => {
             <Route path="/jobs" element={<Home />} />
             <Route path="/arbeitgeber" element={<Home />} />
             <Route path="*" element={<Home />} />
+                    {/* // HR-UPDATER: v1.0 */}
+          <Route path="/datenschutz" element={<Datenschutz />} />
+          <Route path="/autor/thomas-sander" element={<AutorSeite />} />
           </Routes>
         </main>
         <Footer />

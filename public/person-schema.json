@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Thomas Sander",
+  "url": "https://heizungstechnik-stellenangebote.de/autor/thomas-sander",
+  "jobTitle": "Gruender & Geschaeftsfuehrer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "heizungstechnik-stellenangebote.de",
+    "url": "https://heizungstechnik-stellenangebote.de"
+  },
+  "description": "Gruender von heizungstechnik-stellenangebote.de - spezialisiertes Jobportal fuer Heizungstechnik-Stellenangebote.",
+  "knowsAbout": [
+    "Heizungstechnik",
+    "Personalwesen",
+    "Recruiting",
+    "Jobportale"
+  ]
+}
