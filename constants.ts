@@ -203,6 +203,16 @@ export const MOCK_JOBS: Job[] = [
   },
   {
     id: '21',
+    title: 'Bauleiter Sanitär- und Heizungstechnik (m/w/d)',
+    company: 'Otto Schatte GmbH',
+    location: 'Hamburg',
+    type: 'Vollzeit',
+    description: 'Bauleiter Sanitär- und Heizungstechnik (m/w/d)',
+    tags: ['Bauleiter/in'],
+    postedDate: '2025-09-09'
+  },
+  {
+    id: '22',
     title: 'Monteur für Heizungstechnik',
     company: 'Heizungsbau Pfannenstein e.K.',
     location: 'Esslingen am Neckar',
@@ -212,7 +222,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2025-05-12'
   },
   {
-    id: '22',
+    id: '23',
     title: 'Monteur (m/w/d) Heizungstechnik',
     company: 'Dornhöfer GmbH Automation & Haustechnik',
     location: 'Mainz-Kostheim',
@@ -222,7 +232,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2025-04-27'
   },
   {
-    id: '23',
+    id: '24',
     title: 'Obermonteur (m/w/d) Heizungstechnik',
     company: 'Dornhöfer GmbH Automation & Haustechnik',
     location: 'Mainz-Kostheim',
@@ -232,7 +242,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2025-04-27'
   },
   {
-    id: '24',
+    id: '25',
     title: 'Kundendiensttechniker Heizungstechnik (m/w/d)',
     company: 'DALI Personal GmbH',
     location: 'Köln',
@@ -240,16 +250,6 @@ export const MOCK_JOBS: Job[] = [
     description: 'Kundendiensttechniker Heizungstechnik (m/w/d)',
     tags: ['Anlagenmechaniker/in - Sanitär-, Heizungs- und Klimatechnik'],
     postedDate: '2025-03-18'
-  },
-  {
-    id: '25',
-    title: 'Fachplaner Heizungstechnik (m/w/d)',
-    company: 'Ingenieurbüro Poggensee GmbH',
-    location: 'Hamburg',
-    type: 'Vollzeit',
-    description: 'Fachplaner Heizungstechnik (m/w/d)',
-    tags: ['Ingenieur/in - technische Gebäudeausrüstung'],
-    postedDate: '2025-02-14'
   }
 ];
 
