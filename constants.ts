@@ -3,6 +3,86 @@ import { Job, ArticleSection } from './types';
 export const MOCK_JOBS: Job[] = [
   {
     id: '1',
+    title: 'Pflegefachkräfte oder Medizinische Fachangestellte (m/w/d) für die Dialyse',
+    company: 'Nephrocare Salzgitter GmbH Medizinisches Versorgungszentrum',
+    location: 'Salzgitter',
+    type: 'Vollzeit',
+    description: 'Pflegefachkräfte oder Medizinische Fachangestellte (m/w/d) für die Dialyse',
+    tags: [],
+    postedDate: '2026-03-08'
+  },
+  {
+    id: '2',
+    title: 'Versicherungs- und Finanzexperte im angestellten Außendienst im Raum Weißenburg/Gunzenhausen (w/m/d)',
+    company: 'HUK-COBURG Versicherungsgruppe',
+    location: 'Weißenburg i. Bayern',
+    type: 'Vollzeit',
+    description: 'Versicherungs- und Finanzexperte im angestellten Außendienst im Raum Weißenburg/Gunzenhausen (w/m/d)',
+    tags: [],
+    postedDate: '2026-03-08'
+  },
+  {
+    id: '3',
+    title: 'Versicherungs- und Finanzexperte im angestellten Außendienst im Raum Weißenburg/Gunzenhausen (w/m/d)',
+    company: 'HUK-COBURG Versicherungsgruppe',
+    location: 'Nürnberg',
+    type: 'Vollzeit',
+    description: 'Versicherungs- und Finanzexperte im angestellten Außendienst im Raum Weißenburg/Gunzenhausen (w/m/d)',
+    tags: [],
+    postedDate: '2026-03-08'
+  },
+  {
+    id: '4',
+    title: 'Key Account Manager (m/w/d) - Gebiet Großraum Nürnberg - München',
+    company: 'Sikla GmbH',
+    location: 'Nürnberg',
+    type: 'Vollzeit',
+    description: 'Key Account Manager (m/w/d) - Gebiet Großraum Nürnberg - München',
+    tags: [],
+    postedDate: '2026-03-08'
+  },
+  {
+    id: '5',
+    title: 'Key Account Manager (m/w/d) - Gebiet Großraum Nürnberg - München',
+    company: 'Sikla GmbH',
+    location: 'München',
+    type: 'Vollzeit',
+    description: 'Key Account Manager (m/w/d) - Gebiet Großraum Nürnberg - München',
+    tags: [],
+    postedDate: '2026-03-08'
+  },
+  {
+    id: '6',
+    title: 'Projektleiter:in Heizungstechnik (m/w/d)',
+    company: '7Time GmbH',
+    location: 'Beckum, Westfalen',
+    type: 'Vollzeit',
+    description: 'Projektleiter:in Heizungstechnik (m/w/d)',
+    tags: ['Projektleiter/in'],
+    postedDate: '2026-03-06'
+  },
+  {
+    id: '7',
+    title: 'Projektingenieur (m/w/d) Heizungstechnik',
+    company: 'PlanET Biogastechnik',
+    location: 'Gescher',
+    type: 'Vollzeit',
+    description: 'Projektingenieur (m/w/d) Heizungstechnik',
+    tags: ['Ingenieur/in - Energietechnik'],
+    postedDate: '2026-03-05'
+  },
+  {
+    id: '8',
+    title: 'Anlagenmechaniker/in Sanitär- und Heizungstechnik (m/w/d)',
+    company: 'HESA Installationstechnik GmbH',
+    location: 'Magdeburg',
+    type: 'Vollzeit',
+    description: 'Anlagenmechaniker/in Sanitär- und Heizungstechnik (m/w/d)',
+    tags: ['Gas- und Wasserinstallateur/in'],
+    postedDate: '2026-03-04'
+  },
+  {
+    id: '9',
     title: 'Anlagenmechaniker für Sanitär- und Heizungstechnik (m/w/d)',
     company: 'Sport- und Kurhotel Sonnenalp GmbH',
     location: 'Ofterschwang',
@@ -12,7 +92,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2026-03-01'
   },
   {
-    id: '2',
+    id: '10',
     title: 'Haushandwerker/-in Schwerpunkt Sanitär- und Heizungstechnik (m/w/d)',
     company: 'DAK-Gesundheit',
     location: 'Bad Segeberg',
@@ -22,7 +102,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2026-02-26'
   },
   {
-    id: '3',
+    id: '11',
     title: 'Projektleiter:in Heizungstechnik (m/w/d)',
     company: '7Time GmbH',
     location: 'Bremen',
@@ -32,7 +112,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2026-02-25'
   },
   {
-    id: '4',
+    id: '12',
     title: 'Anlagenmechaniker (m/w/d) Heizungstechnik',
     company: 'WISAG Gebäude- und Industrieservice Holding GmbH & Co. KG',
     location: 'Oldenburg (Oldb)',
@@ -42,7 +122,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2026-02-25'
   },
   {
-    id: '5',
+    id: '13',
     title: 'Monteur für Sanitär und Heizungstechnik (m/w/d)',
     company: 'JUTZY Haustechnik & Service GmbH',
     location: 'Brandenburg an der Havel',
@@ -52,7 +132,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2026-02-25'
   },
   {
-    id: '6',
+    id: '14',
     title: 'Anlagenmechaniker m/w/d - Sanitär-, Heizungstechnik',
     company: 'PerZukunft Arbeitsvermittlung GmbH&Co.KG',
     location: 'Berlin',
@@ -62,7 +142,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2026-02-24'
   },
   {
-    id: '7',
+    id: '15',
     title: 'Obermonteur für Heizungstechnik (m/w/d)',
     company: 'biac Personalservice GmbH',
     location: 'Leipzig',
@@ -72,7 +152,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2026-02-23'
   },
   {
-    id: '8',
+    id: '16',
     title: 'Anlagenmechaniker Sanitär- und Heizungstechnik (m/w/d)',
     company: 'biac Personalservice GmbH',
     location: 'Leipzig',
@@ -82,7 +162,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2026-02-23'
   },
   {
-    id: '9',
+    id: '17',
     title: 'Produkionshelfer (m/w/d) Fertigung Heizungstechnik',
     company: 'WEISS Personalmanagement GmbH - Aschaffenburg',
     location: 'Amorbach',
@@ -92,7 +172,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2026-02-22'
   },
   {
-    id: '10',
+    id: '18',
     title: 'Servicemonteur (m/w/d) für Heizungstechnik',
     company: 'VEBAU Versorgungsbau GmbH',
     location: 'Erfurt',
@@ -102,7 +182,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2026-02-17'
   },
   {
-    id: '11',
+    id: '19',
     title: 'Projektleiter Heizungstechnik (m/w/d), Bremen',
     company: 'ELMATIC GmbH',
     location: 'Bremen',
@@ -112,7 +192,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2026-02-11'
   },
   {
-    id: '12',
+    id: '20',
     title: 'Servicemonteur für Heizungstechnik (m/w/d)',
     company: 'VEBAU Versorgungsbau GmbH Erfurt',
     location: 'Erfurt',
@@ -122,7 +202,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2026-02-11'
   },
   {
-    id: '13',
+    id: '21',
     title: 'Anlagenmechaniker (m/w/d) für Heizungstechnik',
     company: 'FlexPartner Personalmanagement GmbH',
     location: 'Gelsenkirchen',
@@ -132,7 +212,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2026-02-07'
   },
   {
-    id: '14',
+    id: '22',
     title: 'Anlagenmechaniker/in Sanitär- und Heizungstechnik (m/w/d)',
     company: 'Haus-und Gebäudetechnik Keil GmbH & Co. KG',
     location: 'Heppenheim (Bergstraße)',
@@ -142,7 +222,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2026-02-02'
   },
   {
-    id: '15',
+    id: '23',
     title: 'Anlagenmechaniker (m/w/d) Sanitär- und Heizungstechnik',
     company: 'Eggelsmann GmbH Sanitär-u.Heizungstechnik',
     location: 'Langenhagen, Han',
@@ -152,7 +232,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2026-01-08'
   },
   {
-    id: '16',
+    id: '24',
     title: 'Disponent - Heizungstechnik (m/w/d)',
     company: 'AlphaConsult KG - Magdeburg',
     location: 'Magdeburg',
@@ -162,7 +242,7 @@ export const MOCK_JOBS: Job[] = [
     postedDate: '2025-12-12'
   },
   {
-    id: '17',
+    id: '25',
     title: 'Projektleiter Heizungstechnik (m/w/d)',
     company: 'Jens Gottschalk GmbH',
     location: 'Norderstedt',
@@ -170,86 +250,6 @@ export const MOCK_JOBS: Job[] = [
     description: 'Projektleiter Heizungstechnik (m/w/d)',
     tags: ['Techniker/in - Heizungs-, Lüftungs-, Klimatechnik/Bachelor Professional in Technik'],
     postedDate: '2025-11-25'
-  },
-  {
-    id: '18',
-    title: 'Installateur Heizungstechnik (m/w/d)',
-    company: 'persona service AG & Co.KG Essen',
-    location: 'Essen, Ruhr',
-    type: 'Vollzeit',
-    description: 'Installateur Heizungstechnik (m/w/d)',
-    tags: ['Anlagenmechaniker/in - Sanitär-, Heizungs- und Klimatechnik'],
-    postedDate: '2025-11-05'
-  },
-  {
-    id: '19',
-    title: 'Anlagenmechaniker für Kundendienst (m/w/d) Heizungstechnik',
-    company: 'Jens Gottschalk GmbH',
-    location: 'Norderstedt',
-    type: 'Vollzeit',
-    description: 'Anlagenmechaniker für Kundendienst (m/w/d) Heizungstechnik',
-    tags: ['Anlagenmechaniker/in'],
-    postedDate: '2025-09-22'
-  },
-  {
-    id: '20',
-    title: 'Kundendienstmonteur Heizungstechnik (m/w/d)',
-    company: 'persona service AG & Co.KG',
-    location: 'Bad Tölz',
-    type: 'Vollzeit',
-    description: 'Kundendienstmonteur Heizungstechnik (m/w/d)',
-    tags: ['Elektroanlagenmonteur/in'],
-    postedDate: '2025-09-18'
-  },
-  {
-    id: '21',
-    title: 'Bauleiter Sanitär- und Heizungstechnik (m/w/d)',
-    company: 'Otto Schatte GmbH',
-    location: 'Hamburg',
-    type: 'Vollzeit',
-    description: 'Bauleiter Sanitär- und Heizungstechnik (m/w/d)',
-    tags: ['Bauleiter/in'],
-    postedDate: '2025-09-09'
-  },
-  {
-    id: '22',
-    title: 'Monteur für Heizungstechnik',
-    company: 'Heizungsbau Pfannenstein e.K.',
-    location: 'Esslingen am Neckar',
-    type: 'Vollzeit',
-    description: 'Monteur für Heizungstechnik',
-    tags: ['Anlagenmechaniker/in - Sanitär-, Heizungs- und Klimatechnik'],
-    postedDate: '2025-05-12'
-  },
-  {
-    id: '23',
-    title: 'Monteur (m/w/d) Heizungstechnik',
-    company: 'Dornhöfer GmbH Automation & Haustechnik',
-    location: 'Mainz-Kostheim',
-    type: 'Vollzeit',
-    description: 'Monteur (m/w/d) Heizungstechnik',
-    tags: ['Anlagenmechaniker/in'],
-    postedDate: '2025-04-27'
-  },
-  {
-    id: '24',
-    title: 'Obermonteur (m/w/d) Heizungstechnik',
-    company: 'Dornhöfer GmbH Automation & Haustechnik',
-    location: 'Mainz-Kostheim',
-    type: 'Vollzeit',
-    description: 'Obermonteur (m/w/d) Heizungstechnik',
-    tags: ['Anlagenmechaniker/in - Sanitär-, Heizungs- und Klimatechnik'],
-    postedDate: '2025-04-27'
-  },
-  {
-    id: '25',
-    title: 'Kundendiensttechniker Heizungstechnik (m/w/d)',
-    company: 'DALI Personal GmbH',
-    location: 'Köln',
-    type: 'Vollzeit',
-    description: 'Kundendiensttechniker Heizungstechnik (m/w/d)',
-    tags: ['Anlagenmechaniker/in - Sanitär-, Heizungs- und Klimatechnik'],
-    postedDate: '2025-03-18'
   }
 ];
 
