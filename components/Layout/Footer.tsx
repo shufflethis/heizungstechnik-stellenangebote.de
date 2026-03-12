@@ -38,7 +38,7 @@ const Footer: React.FC = () => {
         <div>
           <h3 className="text-white font-semibold mb-4">Kontakt</h3>
           <ul className="space-y-2 text-sm">
-            <li className="flex items-center gap-2"><MapPin size={16} /> Musterstraße 1, 10437 Berlin</li>
+            <li className="flex items-center gap-2"><MapPin size={16} /> Schliemannstraße 23, 10437 Berlin</li>
             <li className="flex items-center gap-2"><Mail size={16} /> info@socialmediaventure.com</li>
             <li className="mt-4 pt-4 border-t border-brand-800">
                <Link to="/impressum" className="hover:text-white transition">Impressum & Datenschutz</Link>
