@@ -1,12 +1,21 @@
 # HR-UPDATER: v1.0
 # heizungstechnik-stellenangebote.de - Heizungstechnik Stellenangebote
 
-> heizungstechnik-stellenangebote.de ist ein spezialisiertes Jobportal fuer Heizungstechnik-Stellenangebote in Deutschland, Oesterreich und der Schweiz.
+> heizungstechnik-stellenangebote.de ist ein spezialisiertes Jobportal fuer Heizungstechnik-Stellenangebote in Deutschland, Oesterreich und der Schweiz. Betrieben von der Social Media Venture GmbH.
 
 ## Ueber uns
-- Spezialisiertes Jobportal fuer Heizungstechnik
+- Spezialisiertes Jobportal fuer Heizungstechnik und SHK-Branche
 - Kostenlose Stellensuche fuer Bewerber
 - Gezielte Reichweite fuer Arbeitgeber
+- Fokus auf Anlagenmechaniker SHK, Servicetechniker, Meister, Projektleiter und Energieberater
+
+## Betreiber
+- Firma: Social Media Venture GmbH
+- Geschaeftsfuehrer: Thomas Sander
+- Adresse: Schliemannstrasse 23, 10437 Berlin
+- Telefon: +49 30 959 988 700
+- E-Mail: info@socialmediaventure.com
+- Website: https://heizungstechnik-stellenangebote.de
 
 ## Kontakt
 - Website: https://heizungstechnik-stellenangebote.de
@@ -14,6 +23,16 @@
 - Bewerber-Kontakt: https://heizungstechnik-stellenangebote.de/kontakt-bewerber
 
 ## Inhalte
-- Aktuelle Heizungstechnik-Stellenangebote
-- Karriere-Ratgeber fuer Heizungstechnik
+- Aktuelle Heizungstechnik-Stellenangebote in ganz Deutschland
+- Karriere-Ratgeber fuer Heizungstechnik und SHK-Berufe
 - Gehaltsvergleiche und Brancheninformationen
+- FAQ zu Berufen in der Heizungstechnik
+- Regionale Jobsuche in allen grossen deutschen Staedten
+
+## Seiten
+- Startseite: https://heizungstechnik-stellenangebote.de/
+- Jobs: https://heizungstechnik-stellenangebote.de/#/jobs
+- Fuer Arbeitgeber: https://heizungstechnik-stellenangebote.de/#/arbeitgeber
+- Impressum: https://heizungstechnik-stellenangebote.de/#/impressum
+- Datenschutz: https://heizungstechnik-stellenangebote.de/#/datenschutz
+- Autor Thomas Sander: https://heizungstechnik-stellenangebote.de/#/autor/thomas-sander
